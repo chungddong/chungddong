@@ -18,6 +18,8 @@
 ### 🛠️ Frameworks & Technologies
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=.net&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=.net&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
@@ -34,10 +36,9 @@
 
 ## 🎯 Focus Areas
 
-- **Windows Application Development** - WPF를 활용한 데스크톱 애플리케이션
-- **Web Application Development** - 풀스택 웹 개발
-- **Cross-Platform Development** - Flutter, Electron을 통한 멀티플랫폼 솔루션
-- **Cloud Integration** - Azure 기반 클라우드 서비스 연동
+-WPF, WinForms를 활용한 데스크톱 애플리케이션
+-Flutter, AndroidStudio, .NET MAUI로 iOS/Android 앱 개발
+-풀스택 웹 개발
 
 ## 📊 GitHub Stats
 
@@ -45,9 +46,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true)
 
-## 🌱 Currently Learning
-
-새로운 기술과 트렌드를 지속적으로 학습하며, 더 나은 개발자가 되기 위해 노력하고 있습니다.
 
 ## 📫 Connect With Me
 
@@ -55,5 +53,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
-
-⭐️ **"상상을 현실로, 코드로 세상을 바꾸다"**
